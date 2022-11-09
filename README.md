@@ -2,21 +2,21 @@
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{I am trying to familarize myself with the C++ programming language so that I can be an all round software developer}
 
-{Provide a description the software that you wrote to demonstrate the C++ language.}
+{I wrote an ATM software. It takes deposit input from the user, store the deposit and returns it as the balance. it also adds and withdraws from the users account depending on what the user wants.}
 
-{Describe your purpose for writing this software.}
+{I wrote this software to familarize myself with the C++ programming language and its development environment}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+{Link to my YouTube demonstration.  }
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{CLion from JetBrains which installed the MinGW compiler automatically on my system to enable me to use the text editor.}
 
-{Describe the programming language that you used and any libraries.}
+{The C++ language is an object-oriented language that is used for embedded and application development. It is based on the C language. C++ requires the use of a compiler and linker, which are operating system– and processor-specific.}
 
 # Useful Websites
 
