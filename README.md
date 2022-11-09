@@ -21,12 +21,12 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Jetbrains](http://jetbrains.com/clion/)
+* [Youtube](https://www.youtube.com/watch?v=wccZgjs90S8)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Strech challenge of adding more functionalities like transfer between multiple clients
+* CSS
+
