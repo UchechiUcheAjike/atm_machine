@@ -14,13 +14,13 @@
 
 # Development Environment
 
-{CLion from JetBrains which installed the MinGW compiler automatically on my system to enable me to use the text editor.}
+{I used CLion from JetBrains which installed the MinGW compiler automatically on my system to enable me to use the text editor.}
 
-{The C++ language is an object-oriented language that is used for embedded and application development. It is based on the C language. C++ requires the use of a compiler and linker, which are operating system– and processor-specific.}
+{I also used the C++ language which is an object-oriented language that is used for embedded and application development. It is based on the C language. C++ requires the use of a compiler and linker, which are operating system– and processor-specific.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+{List of websites that I found helpful in this project}
 * [Jetbrains](http://jetbrains.com/clion/)
 * [Youtube](https://www.youtube.com/watch?v=wccZgjs90S8)
 
